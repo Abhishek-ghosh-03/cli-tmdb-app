@@ -57,6 +57,10 @@ Jackson
 **Workflow**
 - ![WhatsApp Image 2025-08-23 at 12 16 30 AM](https://github.com/user-attachments/assets/26e911db-2f92-4437-993f-a9e4e4521d51)
 - ![WhatsApp Image 2025-08-23 at 12 18 21 AM](https://github.com/user-attachments/assets/57afaffc-42d4-4a96-b771-1b3f8e8c3dd6)
+---
+- **The Output**
+- ![WhatsApp Image 2025-08-23 at 12 26 04 AM](https://github.com/user-attachments/assets/44495857-a378-4fc8-9e00-67378da994d7)
+
 
 
 
