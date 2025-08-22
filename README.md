@@ -17,7 +17,7 @@ CLI for fetching data from movie database (tmdb) and displaying it on the termin
 
 **Clone the repository:**
 
-- git clone https://github.com/your-username/cli-tmdb-app.git
+- git clone https://github.com/Abhishek-ghosh-03/cli-tmdb-app.git
 - cd cli-tmdb-app
 
 ---
@@ -28,10 +28,10 @@ private final String API_KEY = "";
 ---
 **Build the project using Maven:**
 
-mvn clean package
+- mvn clean package
 
----
-This generates a fat JAR in target/tmdb-app-1.0.0.jar.
+
+- This generates a fat JAR in target/tmdb-app-1.0.0.jar.
 
 ---
 **CLI commands for testing**
@@ -62,7 +62,7 @@ Jackson
 
 ---
 
-##Commands
+## Commands
 ```bash
 java -jar target/tmdb-app-1.0.0.jar --type popular
 java -jar target/tmdb-app-1.0.0.jar --type top
